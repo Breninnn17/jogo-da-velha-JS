@@ -119,3 +119,16 @@ body {
         color: #FFF;
         padding: 20px;
     }  
+
+    @media screen and (min-width:1024px) {
+        body{
+            margin-top: 0px;
+        }
+        #scoreboard-container{
+            margin-top: 0px;
+        }
+        h2{
+            margin-bottom: 0px;
+        }
+
+    } 
